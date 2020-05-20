@@ -5,7 +5,7 @@ module.exports = {
       name: `Olga Nedelcu`,
       summary: `awesome girl who codes.Nice have you here🤗`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A personal blog built with Gastby.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `kylemathews`,
