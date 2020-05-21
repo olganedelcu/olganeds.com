@@ -60,11 +60,12 @@ const Bio = () => {
         Written by <strong>{author.name}</strong> {author.summary}
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-         // 
+        // 
         </a>
       </p>
     </div>
   )
 }
+
 
 export default Bio
