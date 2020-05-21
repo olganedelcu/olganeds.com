@@ -1,5 +1,8 @@
 import React from 'react'
 import { render } from 'react-dom'
+import styled from 'styled-components'
+import { Card, Text, Heading, Box } from 'rebass'
+import theme from '../theme/config'
 
 class Welcome extends React.Component {
     render() {
