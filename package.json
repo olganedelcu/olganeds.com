@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "olganeds",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A girl who codes",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Olga Nedelcu <olga.neds@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -38,7 +38,7 @@
   "devDependencies": {
     "prettier": "2.0.5"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://nifty-spence-4d44cd.netlify.app",
   "keywords": [
     "gatsby"
   ],
