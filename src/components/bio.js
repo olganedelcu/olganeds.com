@@ -43,29 +43,29 @@ const Bio = () => {
         marginBottom: rhythm(2.5),
       }}
     >
-     <Image
-        fixed={data.avatar.childImageSharp.fixed}
-        alt={author.name}
-        style={{
-          marginRight: rhythm(1 / 2),
-          marginBottom: 0,
-          minWidth: 50,
-          borderRadius: `100%`,
-        }}
-        imgStyle={{
-          borderRadius: `50%`,
-        }}
-      />
-      <p>
-        Written by <strong>{author.name}</strong> {author.summary}
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-        // 
-        </a>
-      </p>
-    </div>
-  )
-}
+   </div>   
+   // <Image
+  //  </div>      alt={author.name}
+  //  </div>      style={{
+  //  </div>        marginRight: rhythm(1 / 2),
+  //  </div>        marginBottom: 0,
+  //  </div>        minWidth: 50,
+  //  </div>        borderRadius: `100%`,
+  //  </div>      }}
+//  </div>        imgStyle={{
+//  </div>          borderRadius: `50%`,
+//  </div>    </div>      }}
+//  </div>      />
+//  </div>      <p>
+ //  </div>       Written by <strong>{author.name}</strong> {author.summary}
+//  </div>  </div>       {` `}
+//  </div>        <a href={`https://twitter.com/${social.twitter}`}>
+//  </div>        // 
+//  </div>        </a>
+//  </div>      </p>
+//  </div>    </div>
+//  </div>  )
+//  </div>}
 
 
-export default Bio
+ // export default Bio
