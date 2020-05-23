@@ -41,31 +41,9 @@ const Bio = () => {
       style={{
         display: `flex`,
         marginBottom: rhythm(2.5),
-      }}
-    >
-   </div>   
-   // <Image
-  //  </div>      alt={author.name}
-  //  </div>      style={{
-  //  </div>        marginRight: rhythm(1 / 2),
-  //  </div>        marginBottom: 0,
-  //  </div>        minWidth: 50,
-  //  </div>        borderRadius: `100%`,
-  //  </div>      }}
-//  </div>        imgStyle={{
-//  </div>          borderRadius: `50%`,
-//  </div>    </div>      }}
-//  </div>      />
-//  </div>      <p>
- //  </div>       Written by <strong>{author.name}</strong> {author.summary}
-//  </div>  </div>       {` `}
-//  </div>        <a href={`https://twitter.com/${social.twitter}`}>
-//  </div>        // 
-//  </div>        </a>
-//  </div>      </p>
-//  </div>    </div>
-//  </div>  )
-//  </div>}
+      }}>
+      </div>
 
-
- // export default Bio
+  )
+  }
+export default Bio
