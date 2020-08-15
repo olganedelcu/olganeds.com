@@ -4,4 +4,4 @@ My site👀 for 2020, made with React + Gatsby
 
 Link:
 
-https://nifty-spence-4d44cd.netlify.app
+https://olganedelcu.netlify.app
